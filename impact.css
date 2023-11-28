@@ -55,7 +55,7 @@ main {
 }
 
 .stories {
-    animation: move 50s ease-in-out infinite;
+    animation: move 30s ease-in-out infinite;
 }
  
 @keyframes move {
